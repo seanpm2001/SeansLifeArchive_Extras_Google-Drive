@@ -1,13 +1,13 @@
 
 ***
 
-# <projectName>
+# Google Drive
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/Google_Drive_logo_(2014-2020).svg) <!-- Using the 2014-2020 logo, as it is the one I mostly used it under, and the newer Google gets, the more inferior they become, even with their graphics !-->
 
 # By:
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+[Google (blacklisted)]() images from the [Seanpm2001 Google Drive (server)](https://github.com/seanpm2001/SeansLifeArchive_Extras_Google-Drive/)
 
 ### Top
 
@@ -27,13 +27,13 @@ Translations in languages other than English are machine translated and are not 
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+> [00.1 - Title](#Google-Drive)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#RepositoryName)
+[01.0 - Description](#SeansLifeArchive_Extras_Google-Drive)
 
 [02.0 - About](#About)
 
@@ -71,20 +71,20 @@ Translations in languages other than English are machine translated and are not 
 
 ***
 
-# <repoName>
-<repo_description>
+# SeansLifeArchive_Extras_Google-Drive
+The module for my life story project that contains my Google Drive data (not to be confused with Google Drive images) 
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. This repository holds my older Google Drive data from my accounts. It currently can't host all data due to size, privacy, and copyright reasons.
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SeansLifeArchive_Extras_Google-Drive/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -130,7 +130,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is not allowed for others, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 45 commits (As of Tuesday, May 18th 2021 at 6:30 pm)
 
 > * 2. No other contributers.
 
@@ -220,15 +220,15 @@ Contributing is not allowed for this project, as this is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `0.1 (Sunday, March 21st 2021 at 8:01 pm)`
+File version: `1 (Tuesday, May 18th 2021 at 6:30 pm)`
 
-Line count: `0,296`
+Line count: `0,288`
 
 ***
 
 ## README version history
 
-Version 0.1 (Sunday, March 21st 2021 at 8:01 pm)
+Version 1 (Tuesday, May 18th 2021 at 6:30 pm)
 
 > Changes:
 
@@ -265,14 +265,6 @@ Version 0.1 (Sunday, March 21st 2021 at 8:01 pm)
 > * Added a software status section, with a DRM free sticker and message
 
 > * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
 
 > * No other changes in version 1
 
